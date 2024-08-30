@@ -1,436 +1,4 @@
 {
-  "section80": {
-    "title": "Section.80",
-    "backgroundColor": "#a19a70",
-    "songs": [
-      {
-        "title": "Fuck Your Ethnicity",
-        "description": "A track addressing racial and ethnic identity issues, challenging societal norms and expectations.",
-        "lyrics": "The rap game is a very hostile environment...",
-        "analysis": "Kendrick critiques racial categorization and the impact it has on individual identity and societal perceptions.",
-        "youtubeId": "HVulYPJOXHI"
-      },
-      {
-        "title": "Hol' Up",
-        "description": "A reflective track exploring themes of self-awareness and societal expectations.",
-        "lyrics": "I been in it for a long time...",
-        "analysis": "This song delves into Kendrick's introspection about his role in the music industry and society.",
-        "youtubeId": "zHmE1ArPdUM"
-      },
-      {
-        "title": "A.D.H.D",
-        "description": "A track that examines the effects of attention deficit hyperactivity disorder (ADHD) on youth and society.",
-        "lyrics": "I got a cousin that’s a ball player...",
-        "analysis": "Kendrick uses ADHD as a metaphor for the distractions and struggles faced by the younger generation in a chaotic environment.",
-        "youtubeId": "QjlFqgRbICY"
-      },
-      {
-        "title": "No Make-Up (Her Vice)",
-        "description": "A song that discusses the pressures and struggles faced by women, particularly regarding self-image and societal standards.",
-        "lyrics": "I guess it’s time to let it go...",
-        "analysis": "Kendrick addresses issues of self-esteem and societal expectations placed on women, offering a critique of these pressures.",
-        "youtubeId": "hyHO9Xis"
-      },
-      {
-        "title": "Tammy's Song (Her Evils)",
-        "description": "A narrative-driven track that delves into the complexities of personal relationships and societal issues.",
-        "lyrics": "I can’t let go, it’s hard to breathe...",
-        "analysis": "This song explores the impact of personal and societal challenges on relationships and personal well-being.",
-        "youtubeId": "C7LzgKaou4U"
-      },
-      {
-        "title": "Chapter Six",
-        "description": "A track reflecting on personal growth and societal observations, with introspective and contemplative lyrics.",
-        "lyrics": "We’ve been on this journey...",
-        "analysis": "Kendrick uses this track to reflect on his journey and growth, both personally and as an artist.",
-        "youtubeId": "RfNUQM9vx_g"
-      },
-      {
-        "title": "Ronald Reagan Era (Dedication)",
-        "description": "A track that critiques political and social issues, focusing on the impact of Ronald Reagan’s policies on the community.",
-        "lyrics": "I guess it’s time to let it go...",
-        "analysis": "Kendrick examines the legacy of Ronald Reagan’s presidency and its effects on marginalized communities.",
-        "youtubeId": "bk-_RTrUEkw"
-      },
-      {
-        "title": "Poe Mans Dreams (His Vice) [feat. GLC]",
-        "description": "A collaborative track with GLC that addresses the struggles and aspirations of individuals from underprivileged backgrounds.",
-        "lyrics": "We gon’ make it, we gon’ make it...",
-        "analysis": "The song highlights the challenges faced by those in poverty while emphasizing resilience and ambition.",
-        "youtubeId": "1JrCdJ47TjI"
-      },
-      {
-        "title": "The Spiteful Chant",
-        "description": "A track characterized by its raw and aggressive tone, addressing themes of anger and frustration.",
-        "lyrics": "They can’t stand us, they don’t understand us...",
-        "analysis": "Kendrick channels his frustration into a powerful critique of societal and personal injustices.",
-        "youtubeId": "dzFEPJK45iQ"
-      },
-      {
-        "title": "Chapter Ten",
-        "description": "A contemplative track that continues the thematic journey of the album, reflecting on personal and societal issues.",
-        "lyrics": "We’re still fighting, still striving...",
-        "analysis": "This track reflects on ongoing struggles and personal growth, tying into the broader themes of the album.",
-        "youtubeId": "0H8JzpQrYsw"
-      },
-      {
-        "title": "Keisha's Song (Her Pain)",
-        "description": "A poignant track that tells the story of Keisha and her struggles, offering a critique of systemic issues affecting women.",
-        "lyrics": "She’s stuck in the same place...",
-        "analysis": "Kendrick highlights the painful realities faced by women in challenging circumstances, using Keisha's story as a focal point.",
-        "youtubeId": "O4C37y2snAU"
-      },
-      {
-        "title": "Rigamortus",
-        "description": "A high-energy track showcasing Kendrick’s lyrical prowess and addressing themes of resilience and competition in the rap game.",
-        "lyrics": "I’m the hottest in the game...",
-        "analysis": "Kendrick delivers a powerful performance, emphasizing his skills and the drive needed to succeed in the competitive world of rap.",
-        "youtubeId": "yh6QxtRpSH8"
-      },
-      {
-        "title": "Kush & Corinthians (His Pain)",
-        "description": "A track that explores themes of escapism and personal pain, using drug use as a metaphor for deeper emotional struggles.",
-        "lyrics": "I just wanna get away...",
-        "analysis": "Kendrick uses the themes of drug use and escape to delve into personal pain and the search for relief from emotional burdens.",
-        "youtubeId": "khe88GbAWks"
-      },
-      {
-        "title": "Blow My High (Members Only)",
-        "description": "A track focusing on the desire to maintain personal authenticity and resist external pressures.",
-        "lyrics": "Don’t let them blow my high...",
-        "analysis": "Kendrick emphasizes the importance of staying true to oneself amidst external pressures and distractions.",
-        "youtubeId": "rdYqOgoKEyk"
-      },
-      {
-        "title": "Ab-Soul’s Outro",
-        "description": "A reflective outro that features Ab-Soul and ties together the album's themes with introspective lyrics.",
-        "lyrics": "We’ve been on this journey...",
-        "analysis": "The track offers a conclusion to the album, summarizing its themes and reflecting on Kendrick’s and Ab-Soul’s experiences.",
-        "youtubeId": "ExuUMtj7Vkc"
-      },
-      {
-        "title": "HiiPoWeR",
-        "description": "A track that serves as an anthem for empowerment and social justice, with a focus on self-affirmation and collective strength.",
-        "lyrics": "I’m the voice of the voiceless...",
-        "analysis": "Kendrick uses this song to empower and inspire, addressing social issues and promoting resilience.",
-        "youtubeId": "WL9ahHAlPKU"
-      }
-    ]
-  },
-  "good-kid-mad-city": {
-    "title": "Good Kid, M.A.A.D City",
-    "backgroundColor": "#f4c542",
-    "songs": [
-      {
-        "title": "Sherane a.k.a Master Splinter’s Daughter",
-        "description": "The intro track sets the stage for the album's narrative, introducing Kendrick's experiences with Sherane and his surroundings in Compton.",
-        "lyrics": "Two hundred thousand dollars from a car note...",
-        "analysis": "This song explores the temptations and dangers Kendrick faced growing up, particularly with his interactions with Sherane, which symbolize the challenges of his environment.",
-        "youtubeId": "REtSNvjxBXE",
-        "backgroundColor": "#ffeb3b"
-      },
-      {
-        "title": "Bitch, Don’t Kill My Vibe",
-        "description": "A reflective track where Kendrick contemplates his role in the music industry and the pressures he faces.",
-        "lyrics": "I am a sinner who's probably gonna sin again...",
-        "analysis": "Kendrick uses this song to discuss the negative energy around him and how he strives to maintain his authenticity despite external pressures.",
-        "youtubeId": "GF8aaTu2kg0",
-        "backgroundColor": "#c2185b"
-      },
-      {
-        "title": "Backseat Freestyle",
-        "description": "This high-energy track reflects Kendrick's youthful fantasies of success and power, framed through the lens of a young rapper's perspective.",
-        "lyrics": "Martin had a dream, Martin had a dream...",
-        "analysis": "The track represents a young Kendrick's raw ambition and the exaggerated bravado common in rap, while also subtly critiquing the materialism in hip-hop culture.",
-        "youtubeId": "EZW7et3tPuQ"
-      },
-      {
-        "title": "The Art of Peer Pressure",
-        "description": "A narrative-driven song where Kendrick details a day with his friends, showcasing the influence of peer pressure and the consequences that follow.",
-        "lyrics": "Really I'm a peacemaker but I'm with the homies right now...",
-        "analysis": "This song highlights the tension between Kendrick's true nature and the reckless behavior he adopts when influenced by his peers, illustrating the dangers of groupthink.",
-        "youtubeId": "t93uK0DKvEk"
-      },
-      {
-        "title": "Money Trees",
-        "description": "A reflective track that juxtaposes the desire for wealth with the harsh realities of life in Compton.",
-        "lyrics": "It go Halle Berry or hallelujah...",
-        "analysis": "Kendrick explores the duality of chasing money—how it can be both a means of escape and a source of problems, depending on how it's obtained and used.",
-        "youtubeId": "dJwHVX84"
-      },
-      {
-        "title": "Poetic Justice (feat. Drake)",
-        "description": "A love song that interweaves romance with poetic references, featuring a verse from Drake.",
-        "lyrics": "If I told you that a flower bloomed in a dark room...",
-        "analysis": "This track uses poetic imagery to discuss love and relationships, emphasizing the complexity of emotions in romantic encounters.",
-        "youtubeId": "yyr2gEouEMM"
-      },
-      {
-        "title": "good kid",
-        "description": "Kendrick reflects on his struggles with growing up in Compton, feeling out of place in a violent environment despite trying to stay on the right path.",
-        "lyrics": "Mass hallucination baby, ill education baby...",
-        "analysis": "The song delves into the conflicts of being a 'good kid' in a 'mad city,' where violence and crime are rampant, and how this environment shapes identity.",
-        "youtubeId": "raZ03s1rzd0"
-      },
-      {
-        "title": "m.A.A.d city (feat. MC Eiht)",
-        "description": "A gritty track that paints a vivid picture of the harsh realities of life in Compton, with contributions from MC Eiht.",
-        "lyrics": "If Pirus and Crips, all got along...",
-        "analysis": "This song serves as a visceral account of the violence and chaos in Compton, with Kendrick narrating his experiences and the trauma that comes with living in a 'mad city.'",
-        "youtubeId": "mprkqDNUQb0"
-      },
-      {
-        "title": "Swimming Pools (Drank)",
-        "description": "A track that critiques the culture of excessive drinking, using the metaphor of a swimming pool to represent the deep pool of alcohol.",
-        "lyrics": "Pour up (drank), head shot (drank)...",
-        "analysis": "Though often mistaken for a party anthem, this song is actually a commentary on the dangers of alcohol abuse and the societal pressures that encourage it.",
-        "youtubeId": "B5YNiCfWC3A"
-      },
-      {
-        "title": "Sing About Me, I'm Dying of Thirst",
-        "description": "A two-part song where Kendrick reflects on mortality, the consequences of violence, and the search for redemption.",
-        "lyrics": "When the lights shut off, and it's my turn to settle down...",
-        "analysis": "The first part of the song is introspective, dealing with legacy and memory, while the second part shifts to the need for spiritual and emotional renewal in the face of despair.",
-        "youtubeId": "75wmW7xjyog"
-      },
-      {
-        "title": "Real (feat. Anna Wise)",
-        "description": "Kendrick contemplates the meaning of 'real'—both in terms of authenticity and the societal expectations of masculinity.",
-        "lyrics": "I do what I wanna do, I say what I wanna say...",
-        "analysis": "This song questions what it truly means to be 'real,' challenging the superficial definitions often upheld in society and encouraging deeper self-awareness.",
-        "youtubeId": "71SsVUmT1ys"
-      },
-      {
-        "title": "Compton (feat. Dr. Dre)",
-        "description": "The album's closing track is a triumphant celebration of Compton, featuring Dr. Dre, and reflects on Kendrick's journey from the streets to stardom.",
-        "lyrics": "Now everybody serenade the new faith of Kendrick Lamar...",
-        "analysis": "This track serves as a victory lap for Kendrick, acknowledging his roots while celebrating his rise, with Dr. Dre's involvement symbolizing the passing of the torch.",
-        "youtubeId": "9PovU-C2osU"
-      }
-    ]
-  },
-  "to-pimp-a-butterfly": {
-    "title": "To Pimp a Butterfly",
-    "backgroundColor": "#9c27b0",
-    "songs": [
-      {
-        "title": "Wesley's Theory (feat. George Clinton & Thundercat)",
-        "description": "An upbeat opener that introduces the album's themes of fame and the pitfalls of success, featuring contributions from George Clinton and Thundercat.",
-        "lyrics": "Every n**** is a star...",
-        "analysis": "This track critiques the materialistic pursuits and the superficial nature of fame, setting the tone for the album's deeper exploration of identity and social issues.",
-        "youtubeId": "l9fN-8NjrvI"
-      },
-      {
-        "title": "For Free? (Interlude)",
-        "description": "A jazz-influenced interlude that addresses issues of racial and economic inequality, juxtaposing Kendrick's lyrical prowess with social commentary.",
-        "lyrics": "This dick ain't free...",
-        "analysis": "The interlude contrasts personal success with systemic oppression, using a provocative tone to highlight the ongoing struggles faced by marginalized communities.",
-        "youtubeId": "_ZTYgq4EoRo"
-      },
-      {
-        "title": "King Kunta",
-        "description": "A powerful track that asserts Kendrick's dominance and confidence, while also addressing the struggles and resistance against systemic racism.",
-        "lyrics": "I was gonna kill a couple rappers, but they did it to themselves...",
-        "analysis": "The song is a bold declaration of Kendrick's power and influence, blending personal triumph with a critique of the industry's shortcomings and societal injustices.",
-        "youtubeId": "hRK7PVJFbS8"
-      },
-      {
-        "title": "Institutionalized (feat. Bilal & Thundercat)",
-        "description": "A reflective track featuring Bilal and Thundercat, discussing the effects of systemic oppression and the challenge of escaping the cycle of institutionalization.",
-        "lyrics": "I’m institutionalized, I’m institutionalized...",
-        "analysis": "This song explores the difficulties of breaking free from societal constraints and the impact of systemic issues on personal identity and growth.",
-        "youtubeId": "7L1POXocFIQ"
-      },
-      {
-        "title": "These Walls (feat. SZA & Bilal)",
-        "description": "A sensual track featuring SZA and Bilal, focusing on the complexities of relationships and the emotional walls people build around themselves.",
-        "lyrics": "Now if I was to fuck her, I’d be the reason why she’s smiling...",
-        "analysis": "The song delves into the emotional barriers people construct in relationships, using intimate imagery to explore themes of vulnerability and connection.",
-        "youtubeId": "drV0QatqbRU"
-      },
-      {
-        "title": "u",
-        "description": "A raw and introspective track where Kendrick battles with self-doubt and depression, showcasing his internal struggles and insecurities.",
-        "lyrics": "I remember you was conflicted, misusing your influence...",
-        "analysis": "This song offers a stark look at Kendrick's personal struggles, contrasting with the public persona he projects and highlighting his vulnerabilities and self-criticism.",
-        "youtubeId": "4wZytWFm7x0"
-      },
-      {
-        "title": "Alright",
-        "description": "An uplifting anthem of resilience and hope, featuring a message of perseverance in the face of adversity and systemic oppression.",
-        "lyrics": "We gon' be alright...",
-        "analysis": "This track serves as a rallying cry for the Black community, emphasizing optimism and strength despite the challenges posed by social injustices.",
-        "youtubeId": "48u_uWMHY"
-      },
-      {
-        "title": "For Sale? (Interlude)",
-        "description": "An interlude that critiques the commodification of Black culture and the struggles of maintaining authenticity in the face of commercial pressures.",
-        "lyrics": "I got a one-way ticket to the other side...",
-        "analysis": "This interlude addresses the tension between artistic integrity and commercial success, exploring the impact of capitalism on cultural identity.",
-        "youtubeId": "RdCepOB4BV8"
-      },
-      {
-        "title": "Momma",
-        "description": "A track that reflects on Kendrick's upbringing and the cultural influences that shaped him, featuring a tribute to his mother and community.",
-        "lyrics": "I remember when we had nothing but a dream...",
-        "analysis": "The song reminisces about Kendrick's early life and the community that supported him, juxtaposing past struggles with his current success.",
-        "youtubeId": "q1AOP6NtGuc"
-      },
-      {
-        "title": "Hood Politics",
-        "description": "A politically charged track that critiques the state of politics and social justice, while reflecting on the complexities of navigating these issues.",
-        "lyrics": "All the lies, they want to see you die...",
-        "analysis": "This song offers a critical perspective on political corruption and social justice, reflecting Kendrick's disillusionment with the system and his commitment to truth.",
-        "youtubeId": "iIsHg3BHpB0"
-      },
-      {
-        "title": "How Much a Dollar Cost (feat. James Fauntleroy)",
-        "description": "A profound track featuring James Fauntleroy, exploring themes of charity, selflessness, and the moral cost of materialism.",
-        "lyrics": "He said, 'I’ll pay you back tomorrow, but you gotta let me get some sleep...'",
-        "analysis": "The song addresses the moral implications of wealth and generosity, highlighting the internal and external struggles of living a life of integrity.",
-        "youtubeId": "y8kEiL81_R4"
-      },
-      {
-        "title": "Complexion (A Zulu Love)",
-        "description": "A track that celebrates Black beauty and challenges colorism within the Black community, promoting self-love and unity.",
-        "lyrics": "We gon' be alright, we gon' be alright...",
-        "analysis": "The song advocates for the appreciation of Black beauty in all its forms, challenging colorist attitudes and promoting unity and self-acceptance.",
-        "youtubeId": "Wt4dUK4uce0"
-      },
-      {
-        "title": "The Blacker the Berry",
-        "description": "A powerful and confrontational track addressing racial identity and the complexities of Black experience in America.",
-        "lyrics": "I’m the biggest hypocrite of 2015...",
-        "analysis": "This track tackles issues of racial identity and hypocrisy, offering a raw critique of both personal and societal racism.",
-        "youtubeId": "VdPtVZDspIY"
-      },
-      {
-        "title": "You Ain't Gotta Lie (Momma Said)",
-        "description": "A reflective track on honesty and the pressures of maintaining a facade, highlighting the value of authenticity.",
-        "lyrics": "You ain't gotta lie, just be real...",
-        "analysis": "This song emphasizes the importance of honesty and the struggle to stay true to oneself amidst societal pressures and expectations.",
-        "youtubeId": "78bSAKX_4vs"
-      },
-      {
-        "title": "I",
-        "description": "A positive and affirming track that promotes self-love and resilience, with a focus on overcoming adversity and embracing one's worth.",
-        "lyrics": "I love myself...",
-        "analysis": "The song serves as a self-affirmation and empowerment anthem, encouraging listeners to embrace self-love and resilience in the face of challenges.",
-        "youtubeId": "8aShfolR6w8"
-      },
-      {
-        "title": "Mortal Man",
-        "description": "The album's closing track features a powerful spoken word segment where Kendrick reflects on his role as an artist and the legacy he wants to leave behind.",
-        "lyrics": "When the lights shut off, and it's my turn to settle down...",
-        "analysis": "The final track is a contemplative reflection on Kendrick's legacy and responsibilities, blending personal introspection with a broader social message.",
-        "youtubeId": "axwpgn3GRMs"
-      }
-    ]
-  },
-  "damn": {
-    "title": "DAMN.",
-    "backgroundColor": "#ff5722",
-    "songs": [
-      {
-        "title": "BLOOD.",
-        "description": "The album's intro, which sets up the narrative and thematic elements of the album, using a dramatic and unsettling tone.",
-        "lyrics": "So I was takin' a walk the other day...",
-        "analysis": "This track introduces the central themes of the album, including fate, morality, and the struggle for redemption. It creates a sense of tension and foreboding.",
-        "youtubeId": "hcnNvy_svTE"
-      },
-      {
-        "title": "DNA.",
-        "description": "A powerful track showcasing Kendrick's pride in his heritage and his confidence in his identity and talent.",
-        "lyrics": "I got loyalty, got royalty inside my DNA...",
-        "analysis": "The song celebrates Kendrick's cultural heritage and personal strength, contrasting with societal pressures and expectations.",
-        "youtubeId": "NLZRYQMLDW4"
-      },
-      {
-        "title": "YAH.",
-        "description": "A contemplative track where Kendrick reflects on spirituality, fame, and his place in the world.",
-        "lyrics": "I'm a sinner who's probably gonna sin again...",
-        "analysis": "This song delves into themes of faith and personal struggle, highlighting Kendrick's introspection and complex relationship with spirituality and fame.",
-        "youtubeId": "kL9QqLugfLU"
-      },
-      {
-        "title": "ELEMENT.",
-        "description": "A fierce track where Kendrick asserts his dominance and addresses his critics, showcasing his lyrical prowess and resilience.",
-        "lyrics": "I'm willing to die for this shit...",
-        "analysis": "The track is a declaration of Kendrick's commitment to his craft and his willingness to confront challenges and adversaries head-on.",
-        "youtubeId": "glaG64Ao7sM"
-      },
-      {
-        "title": "FEEL.",
-        "description": "An introspective track where Kendrick explores his emotional state and the weight of his responsibilities and pressures.",
-        "lyrics": "I don't feel like I'm a part of the world...",
-        "analysis": "The song addresses Kendrick's sense of alienation and emotional burden, offering a raw and honest portrayal of his inner struggles.",
-        "youtubeId": "cQtFTqh1mwM"
-      },
-      {
-        "title": "LOYALTY. (feat. Rihanna)",
-        "description": "A collaboration with Rihanna that examines themes of loyalty and trust in relationships.",
-        "lyrics": "If I didn't ride blade on curb, would you still love me?",
-        "analysis": "This track explores the complexities of loyalty and trust in personal relationships, featuring a strong vocal performance from Rihanna.",
-        "youtubeId": "Dlh-dzB2U4Y"
-      },
-      {
-        "title": "PRIDE.",
-        "description": "A reflective track that deals with themes of pride, vulnerability, and self-examination.",
-        "lyrics": "Love's gonna get you killed, but pride's gonna be the death of you and me...",
-        "analysis": "The song highlights the internal conflict between pride and vulnerability, emphasizing the impact of these emotions on personal relationships and self-identity.",
-        "youtubeId": "J87pJrxvJ5E"
-      },
-      {
-        "title": "HUMBLE.",
-        "description": "An assertive track where Kendrick challenges his peers and emphasizes the importance of staying humble despite success.",
-        "lyrics": "I'm so fuckin' sick and tired of the Photoshop...",
-        "analysis": "The song serves as both a critique of superficiality and a reminder of the value of humility, blending sharp lyrics with a memorable hook.",
-        "youtubeId": "tvTRZJ-4EyI"
-      },
-      {
-        "title": "LUST.",
-        "description": "A track that explores themes of desire and the pursuit of pleasure, with a focus on the complexities of human desire.",
-        "lyrics": "I don't love you, I'm just fuckin' you...",
-        "analysis": "The song examines the nature of lust and desire, addressing the fleeting and often destructive nature of these impulses.",
-        "youtubeId": "qUx8EwR0Otg"
-      },
-      {
-        "title": "LOVE. (feat. Zacari)",
-        "description": "A romantic track featuring Zacari, focusing on the themes of love, affection, and the challenges of maintaining a relationship.",
-        "lyrics": "I know you wanna be a good girl...",
-        "analysis": "This song highlights the positive aspects of love and affection, showcasing Kendrick's softer side and his commitment to a meaningful relationship.",
-        "youtubeId": "ox7RsX1Ee34"
-      },
-      {
-        "title": "XXX. (feat. U2)",
-        "description": "A politically charged track featuring U2 that addresses themes of violence, politics, and social justice.",
-        "lyrics": "Hail Mary, Hail Mary, Hail Mary...",
-        "analysis": "The song offers a critical examination of violence and political corruption, using powerful imagery and U2's contribution to amplify its message.",
-        "youtubeId": "TFr4br_GrSc"
-      },
-      {
-        "title": "FEAR.",
-        "description": "The album's closing track, which tells a true story about Kendrick's father and the role of fate in shaping Kendrick's life.",
-        "lyrics": "If Anthony killed Ducky, Top Dawg could be servin' life...",
-        "analysis": "This track provides a poignant and personal conclusion to the album, reflecting on the role of chance and destiny in Kendrick's life and career.",
-        "youtubeId": "jdbQYDkNjfk"
-      },
-      {
-        "title": "GOD.",
-        "description": "A track where Kendrick grapples with the concept of divinity and his own spirituality, reflecting on his place in the world.",
-        "lyrics": "I don't love you, I just lust you...",
-        "analysis": "The song explores themes of divine intervention and personal spirituality, presenting Kendrick's contemplations on the role of God in his life and career.",
-        "youtubeId": "bBTeAg5CFRA"
-      },
-      {
-        "title": "DUCKWORTH.",
-        "description": "The album's closing track, which tells a true story about Kendrick's father and the role of fate in shaping Kendrick's life.",
-        "lyrics": "If Anthony killed Ducky, Top Dawg could be servin' life...",
-        "analysis": "This track provides a poignant and personal conclusion to the album, reflecting on the role of chance and destiny in Kendrick's life and career.",
-        "youtubeId": "Dm-foWGDBF0"
-      }
-    ]
-  },
   "mr-morale-and-the-big-steppers": {
     "title": "Mr. Morale & the Big Steppers",
     "backgroundColor": "#492a17",
@@ -560,6 +128,438 @@
         "lyrics": "As I get a little older, I realize life is perspective...",
         "analysis": "Kendrick reflects on his journey and the broader societal issues, delivering a message of introspection and critique through a compelling narrative.",
         "youtubeId": "uAPUkgeiFVY"
+      }
+    ]
+  },
+  "damn": {
+    "title": "DAMN.",
+    "backgroundColor": "#ff5722",
+    "songs": [
+      {
+        "title": "BLOOD.",
+        "description": "The album's intro, which sets up the narrative and thematic elements of the album, using a dramatic and unsettling tone.",
+        "lyrics": "So I was takin' a walk the other day...",
+        "analysis": "This track introduces the central themes of the album, including fate, morality, and the struggle for redemption. It creates a sense of tension and foreboding.",
+        "youtubeId": "hcnNvy_svTE"
+      },
+      {
+        "title": "DNA.",
+        "description": "A powerful track showcasing Kendrick's pride in his heritage and his confidence in his identity and talent.",
+        "lyrics": "I got loyalty, got royalty inside my DNA...",
+        "analysis": "The song celebrates Kendrick's cultural heritage and personal strength, contrasting with societal pressures and expectations.",
+        "youtubeId": "NLZRYQMLDW4"
+      },
+      {
+        "title": "YAH.",
+        "description": "A contemplative track where Kendrick reflects on spirituality, fame, and his place in the world.",
+        "lyrics": "I'm a sinner who's probably gonna sin again...",
+        "analysis": "This song delves into themes of faith and personal struggle, highlighting Kendrick's introspection and complex relationship with spirituality and fame.",
+        "youtubeId": "kL9QqLugfLU"
+      },
+      {
+        "title": "ELEMENT.",
+        "description": "A fierce track where Kendrick asserts his dominance and addresses his critics, showcasing his lyrical prowess and resilience.",
+        "lyrics": "I'm willing to die for this shit...",
+        "analysis": "The track is a declaration of Kendrick's commitment to his craft and his willingness to confront challenges and adversaries head-on.",
+        "youtubeId": "glaG64Ao7sM"
+      },
+      {
+        "title": "FEEL.",
+        "description": "An introspective track where Kendrick explores his emotional state and the weight of his responsibilities and pressures.",
+        "lyrics": "I don't feel like I'm a part of the world...",
+        "analysis": "The song addresses Kendrick's sense of alienation and emotional burden, offering a raw and honest portrayal of his inner struggles.",
+        "youtubeId": "cQtFTqh1mwM"
+      },
+      {
+        "title": "LOYALTY. (feat. Rihanna)",
+        "description": "A collaboration with Rihanna that examines themes of loyalty and trust in relationships.",
+        "lyrics": "If I didn't ride blade on curb, would you still love me?",
+        "analysis": "This track explores the complexities of loyalty and trust in personal relationships, featuring a strong vocal performance from Rihanna.",
+        "youtubeId": "Dlh-dzB2U4Y"
+      },
+      {
+        "title": "PRIDE.",
+        "description": "A reflective track that deals with themes of pride, vulnerability, and self-examination.",
+        "lyrics": "Love's gonna get you killed, but pride's gonna be the death of you and me...",
+        "analysis": "The song highlights the internal conflict between pride and vulnerability, emphasizing the impact of these emotions on personal relationships and self-identity.",
+        "youtubeId": "J87pJrxvJ5E"
+      },
+      {
+        "title": "HUMBLE.",
+        "description": "An assertive track where Kendrick challenges his peers and emphasizes the importance of staying humble despite success.",
+        "lyrics": "I'm so fuckin' sick and tired of the Photoshop...",
+        "analysis": "The song serves as both a critique of superficiality and a reminder of the value of humility, blending sharp lyrics with a memorable hook.",
+        "youtubeId": "tvTRZJ-4EyI"
+      },
+      {
+        "title": "LUST.",
+        "description": "A track that explores themes of desire and the pursuit of pleasure, with a focus on the complexities of human desire.",
+        "lyrics": "I don't love you, I'm just fuckin' you...",
+        "analysis": "The song examines the nature of lust and desire, addressing the fleeting and often destructive nature of these impulses.",
+        "youtubeId": "qUx8EwR0Otg"
+      },
+      {
+        "title": "LOVE. (feat. Zacari)",
+        "description": "A romantic track featuring Zacari, focusing on the themes of love, affection, and the challenges of maintaining a relationship.",
+        "lyrics": "I know you wanna be a good girl...",
+        "analysis": "This song highlights the positive aspects of love and affection, showcasing Kendrick's softer side and his commitment to a meaningful relationship.",
+        "youtubeId": "ox7RsX1Ee34"
+      },
+      {
+        "title": "XXX. (feat. U2)",
+        "description": "A politically charged track featuring U2 that addresses themes of violence, politics, and social justice.",
+        "lyrics": "Hail Mary, Hail Mary, Hail Mary...",
+        "analysis": "The song offers a critical examination of violence and political corruption, using powerful imagery and U2's contribution to amplify its message.",
+        "youtubeId": "TFr4br_GrSc"
+      },
+      {
+        "title": "FEAR.",
+        "description": "The album's closing track, which tells a true story about Kendrick's father and the role of fate in shaping Kendrick's life.",
+        "lyrics": "If Anthony killed Ducky, Top Dawg could be servin' life...",
+        "analysis": "This track provides a poignant and personal conclusion to the album, reflecting on the role of chance and destiny in Kendrick's life and career.",
+        "youtubeId": "jdbQYDkNjfk"
+      },
+      {
+        "title": "GOD.",
+        "description": "A track where Kendrick grapples with the concept of divinity and his own spirituality, reflecting on his place in the world.",
+        "lyrics": "I don't love you, I just lust you...",
+        "analysis": "The song explores themes of divine intervention and personal spirituality, presenting Kendrick's contemplations on the role of God in his life and career.",
+        "youtubeId": "bBTeAg5CFRA"
+      },
+      {
+        "title": "DUCKWORTH.",
+        "description": "The album's closing track, which tells a true story about Kendrick's father and the role of fate in shaping Kendrick's life.",
+        "lyrics": "If Anthony killed Ducky, Top Dawg could be servin' life...",
+        "analysis": "This track provides a poignant and personal conclusion to the album, reflecting on the role of chance and destiny in Kendrick's life and career.",
+        "youtubeId": "Dm-foWGDBF0"
+      }
+    ]
+  },
+  "to-pimp-a-butterfly": {
+    "title": "To Pimp a Butterfly",
+    "backgroundColor": "#9c27b0",
+    "songs": [
+      {
+        "title": "Wesley's Theory (feat. George Clinton & Thundercat)",
+        "description": "An upbeat opener that introduces the album's themes of fame and the pitfalls of success, featuring contributions from George Clinton and Thundercat.",
+        "lyrics": "Every n**** is a star...",
+        "analysis": "This track critiques the materialistic pursuits and the superficial nature of fame, setting the tone for the album's deeper exploration of identity and social issues.",
+        "youtubeId": "l9fN-8NjrvI"
+      },
+      {
+        "title": "For Free? (Interlude)",
+        "description": "A jazz-influenced interlude that addresses issues of racial and economic inequality, juxtaposing Kendrick's lyrical prowess with social commentary.",
+        "lyrics": "This dick ain't free...",
+        "analysis": "The interlude contrasts personal success with systemic oppression, using a provocative tone to highlight the ongoing struggles faced by marginalized communities.",
+        "youtubeId": "_ZTYgq4EoRo"
+      },
+      {
+        "title": "King Kunta",
+        "description": "A powerful track that asserts Kendrick's dominance and confidence, while also addressing the struggles and resistance against systemic racism.",
+        "lyrics": "I was gonna kill a couple rappers, but they did it to themselves...",
+        "analysis": "The song is a bold declaration of Kendrick's power and influence, blending personal triumph with a critique of the industry's shortcomings and societal injustices.",
+        "youtubeId": "hRK7PVJFbS8"
+      },
+      {
+        "title": "Institutionalized (feat. Bilal & Thundercat)",
+        "description": "A reflective track featuring Bilal and Thundercat, discussing the effects of systemic oppression and the challenge of escaping the cycle of institutionalization.",
+        "lyrics": "I’m institutionalized, I’m institutionalized...",
+        "analysis": "This song explores the difficulties of breaking free from societal constraints and the impact of systemic issues on personal identity and growth.",
+        "youtubeId": "7L1POXocFIQ"
+      },
+      {
+        "title": "These Walls (feat. SZA & Bilal)",
+        "description": "A sensual track featuring SZA and Bilal, focusing on the complexities of relationships and the emotional walls people build around themselves.",
+        "lyrics": "Now if I was to fuck her, I’d be the reason why she’s smiling...",
+        "analysis": "The song delves into the emotional barriers people construct in relationships, using intimate imagery to explore themes of vulnerability and connection.",
+        "youtubeId": "drV0QatqbRU"
+      },
+      {
+        "title": "u",
+        "description": "A raw and introspective track where Kendrick battles with self-doubt and depression, showcasing his internal struggles and insecurities.",
+        "lyrics": "I remember you was conflicted, misusing your influence...",
+        "analysis": "This song offers a stark look at Kendrick's personal struggles, contrasting with the public persona he projects and highlighting his vulnerabilities and self-criticism.",
+        "youtubeId": "4wZytWFm7x0"
+      },
+      {
+        "title": "Alright",
+        "description": "An uplifting anthem of resilience and hope, featuring a message of perseverance in the face of adversity and systemic oppression.",
+        "lyrics": "We gon' be alright...",
+        "analysis": "This track serves as a rallying cry for the Black community, emphasizing optimism and strength despite the challenges posed by social injustices.",
+        "youtubeId": "48u_uWMHY"
+      },
+      {
+        "title": "For Sale? (Interlude)",
+        "description": "An interlude that critiques the commodification of Black culture and the struggles of maintaining authenticity in the face of commercial pressures.",
+        "lyrics": "I got a one-way ticket to the other side...",
+        "analysis": "This interlude addresses the tension between artistic integrity and commercial success, exploring the impact of capitalism on cultural identity.",
+        "youtubeId": "RdCepOB4BV8"
+      },
+      {
+        "title": "Momma",
+        "description": "A track that reflects on Kendrick's upbringing and the cultural influences that shaped him, featuring a tribute to his mother and community.",
+        "lyrics": "I remember when we had nothing but a dream...",
+        "analysis": "The song reminisces about Kendrick's early life and the community that supported him, juxtaposing past struggles with his current success.",
+        "youtubeId": "q1AOP6NtGuc"
+      },
+      {
+        "title": "Hood Politics",
+        "description": "A politically charged track that critiques the state of politics and social justice, while reflecting on the complexities of navigating these issues.",
+        "lyrics": "All the lies, they want to see you die...",
+        "analysis": "This song offers a critical perspective on political corruption and social justice, reflecting Kendrick's disillusionment with the system and his commitment to truth.",
+        "youtubeId": "iIsHg3BHpB0"
+      },
+      {
+        "title": "How Much a Dollar Cost (feat. James Fauntleroy)",
+        "description": "A profound track featuring James Fauntleroy, exploring themes of charity, selflessness, and the moral cost of materialism.",
+        "lyrics": "He said, 'I’ll pay you back tomorrow, but you gotta let me get some sleep...'",
+        "analysis": "The song addresses the moral implications of wealth and generosity, highlighting the internal and external struggles of living a life of integrity.",
+        "youtubeId": "y8kEiL81_R4"
+      },
+      {
+        "title": "Complexion (A Zulu Love)",
+        "description": "A track that celebrates Black beauty and challenges colorism within the Black community, promoting self-love and unity.",
+        "lyrics": "We gon' be alright, we gon' be alright...",
+        "analysis": "The song advocates for the appreciation of Black beauty in all its forms, challenging colorist attitudes and promoting unity and self-acceptance.",
+        "youtubeId": "Wt4dUK4uce0"
+      },
+      {
+        "title": "The Blacker the Berry",
+        "description": "A powerful and confrontational track addressing racial identity and the complexities of Black experience in America.",
+        "lyrics": "I’m the biggest hypocrite of 2015...",
+        "analysis": "This track tackles issues of racial identity and hypocrisy, offering a raw critique of both personal and societal racism.",
+        "youtubeId": "VdPtVZDspIY"
+      },
+      {
+        "title": "You Ain't Gotta Lie (Momma Said)",
+        "description": "A reflective track on honesty and the pressures of maintaining a facade, highlighting the value of authenticity.",
+        "lyrics": "You ain't gotta lie, just be real...",
+        "analysis": "This song emphasizes the importance of honesty and the struggle to stay true to oneself amidst societal pressures and expectations.",
+        "youtubeId": "78bSAKX_4vs"
+      },
+      {
+        "title": "I",
+        "description": "A positive and affirming track that promotes self-love and resilience, with a focus on overcoming adversity and embracing one's worth.",
+        "lyrics": "I love myself...",
+        "analysis": "The song serves as a self-affirmation and empowerment anthem, encouraging listeners to embrace self-love and resilience in the face of challenges.",
+        "youtubeId": "8aShfolR6w8"
+      },
+      {
+        "title": "Mortal Man",
+        "description": "The album's closing track features a powerful spoken word segment where Kendrick reflects on his role as an artist and the legacy he wants to leave behind.",
+        "lyrics": "When the lights shut off, and it's my turn to settle down...",
+        "analysis": "The final track is a contemplative reflection on Kendrick's legacy and responsibilities, blending personal introspection with a broader social message.",
+        "youtubeId": "axwpgn3GRMs"
+      }
+    ]
+  },
+  "good-kid-mad-city": {
+    "title": "Good Kid, M.A.A.D City",
+    "backgroundColor": "#f4c542",
+    "songs": [
+      {
+        "title": "Sherane a.k.a Master Splinter’s Daughter",
+        "description": "The intro track sets the stage for the album's narrative, introducing Kendrick's experiences with Sherane and his surroundings in Compton.",
+        "lyrics": "Two hundred thousand dollars from a car note...",
+        "analysis": "This song explores the temptations and dangers Kendrick faced growing up, particularly with his interactions with Sherane, which symbolize the challenges of his environment.",
+        "youtubeId": "REtSNvjxBXE",
+        "backgroundColor": "#ffeb3b"
+      },
+      {
+        "title": "Bitch, Don’t Kill My Vibe",
+        "description": "A reflective track where Kendrick contemplates his role in the music industry and the pressures he faces.",
+        "lyrics": "I am a sinner who's probably gonna sin again...",
+        "analysis": "Kendrick uses this song to discuss the negative energy around him and how he strives to maintain his authenticity despite external pressures.",
+        "youtubeId": "GF8aaTu2kg0",
+        "backgroundColor": "#c2185b"
+      },
+      {
+        "title": "Backseat Freestyle",
+        "description": "This high-energy track reflects Kendrick's youthful fantasies of success and power, framed through the lens of a young rapper's perspective.",
+        "lyrics": "Martin had a dream, Martin had a dream...",
+        "analysis": "The track represents a young Kendrick's raw ambition and the exaggerated bravado common in rap, while also subtly critiquing the materialism in hip-hop culture.",
+        "youtubeId": "EZW7et3tPuQ"
+      },
+      {
+        "title": "The Art of Peer Pressure",
+        "description": "A narrative-driven song where Kendrick details a day with his friends, showcasing the influence of peer pressure and the consequences that follow.",
+        "lyrics": "Really I'm a peacemaker but I'm with the homies right now...",
+        "analysis": "This song highlights the tension between Kendrick's true nature and the reckless behavior he adopts when influenced by his peers, illustrating the dangers of groupthink.",
+        "youtubeId": "t93uK0DKvEk"
+      },
+      {
+        "title": "Money Trees",
+        "description": "A reflective track that juxtaposes the desire for wealth with the harsh realities of life in Compton.",
+        "lyrics": "It go Halle Berry or hallelujah...",
+        "analysis": "Kendrick explores the duality of chasing money—how it can be both a means of escape and a source of problems, depending on how it's obtained and used.",
+        "youtubeId": "dJwHVX84"
+      },
+      {
+        "title": "Poetic Justice (feat. Drake)",
+        "description": "A love song that interweaves romance with poetic references, featuring a verse from Drake.",
+        "lyrics": "If I told you that a flower bloomed in a dark room...",
+        "analysis": "This track uses poetic imagery to discuss love and relationships, emphasizing the complexity of emotions in romantic encounters.",
+        "youtubeId": "yyr2gEouEMM"
+      },
+      {
+        "title": "good kid",
+        "description": "Kendrick reflects on his struggles with growing up in Compton, feeling out of place in a violent environment despite trying to stay on the right path.",
+        "lyrics": "Mass hallucination baby, ill education baby...",
+        "analysis": "The song delves into the conflicts of being a 'good kid' in a 'mad city,' where violence and crime are rampant, and how this environment shapes identity.",
+        "youtubeId": "raZ03s1rzd0"
+      },
+      {
+        "title": "m.A.A.d city (feat. MC Eiht)",
+        "description": "A gritty track that paints a vivid picture of the harsh realities of life in Compton, with contributions from MC Eiht.",
+        "lyrics": "If Pirus and Crips, all got along...",
+        "analysis": "This song serves as a visceral account of the violence and chaos in Compton, with Kendrick narrating his experiences and the trauma that comes with living in a 'mad city.'",
+        "youtubeId": "mprkqDNUQb0"
+      },
+      {
+        "title": "Swimming Pools (Drank)",
+        "description": "A track that critiques the culture of excessive drinking, using the metaphor of a swimming pool to represent the deep pool of alcohol.",
+        "lyrics": "Pour up (drank), head shot (drank)...",
+        "analysis": "Though often mistaken for a party anthem, this song is actually a commentary on the dangers of alcohol abuse and the societal pressures that encourage it.",
+        "youtubeId": "B5YNiCfWC3A"
+      },
+      {
+        "title": "Sing About Me, I'm Dying of Thirst",
+        "description": "A two-part song where Kendrick reflects on mortality, the consequences of violence, and the search for redemption.",
+        "lyrics": "When the lights shut off, and it's my turn to settle down...",
+        "analysis": "The first part of the song is introspective, dealing with legacy and memory, while the second part shifts to the need for spiritual and emotional renewal in the face of despair.",
+        "youtubeId": "75wmW7xjyog"
+      },
+      {
+        "title": "Real (feat. Anna Wise)",
+        "description": "Kendrick contemplates the meaning of 'real'—both in terms of authenticity and the societal expectations of masculinity.",
+        "lyrics": "I do what I wanna do, I say what I wanna say...",
+        "analysis": "This song questions what it truly means to be 'real,' challenging the superficial definitions often upheld in society and encouraging deeper self-awareness.",
+        "youtubeId": "71SsVUmT1ys"
+      },
+      {
+        "title": "Compton (feat. Dr. Dre)",
+        "description": "The album's closing track is a triumphant celebration of Compton, featuring Dr. Dre, and reflects on Kendrick's journey from the streets to stardom.",
+        "lyrics": "Now everybody serenade the new faith of Kendrick Lamar...",
+        "analysis": "This track serves as a victory lap for Kendrick, acknowledging his roots while celebrating his rise, with Dr. Dre's involvement symbolizing the passing of the torch.",
+        "youtubeId": "9PovU-C2osU"
+      }
+    ]
+  },
+  "section80": {
+    "title": "Section.80",
+    "backgroundColor": "#a19a70",
+    "songs": [
+      {
+        "title": "Fuck Your Ethnicity",
+        "description": "A track addressing racial and ethnic identity issues, challenging societal norms and expectations.",
+        "lyrics": "The rap game is a very hostile environment...",
+        "analysis": "Kendrick critiques racial categorization and the impact it has on individual identity and societal perceptions.",
+        "youtubeId": "HVulYPJOXHI"
+      },
+      {
+        "title": "Hol' Up",
+        "description": "A reflective track exploring themes of self-awareness and societal expectations.",
+        "lyrics": "I been in it for a long time...",
+        "analysis": "This song delves into Kendrick's introspection about his role in the music industry and society.",
+        "youtubeId": "zHmE1ArPdUM"
+      },
+      {
+        "title": "A.D.H.D",
+        "description": "A track that examines the effects of attention deficit hyperactivity disorder (ADHD) on youth and society.",
+        "lyrics": "I got a cousin that’s a ball player...",
+        "analysis": "Kendrick uses ADHD as a metaphor for the distractions and struggles faced by the younger generation in a chaotic environment.",
+        "youtubeId": "QjlFqgRbICY"
+      },
+      {
+        "title": "No Make-Up (Her Vice)",
+        "description": "A song that discusses the pressures and struggles faced by women, particularly regarding self-image and societal standards.",
+        "lyrics": "I guess it’s time to let it go...",
+        "analysis": "Kendrick addresses issues of self-esteem and societal expectations placed on women, offering a critique of these pressures.",
+        "youtubeId": "hyHO9Xis"
+      },
+      {
+        "title": "Tammy's Song (Her Evils)",
+        "description": "A narrative-driven track that delves into the complexities of personal relationships and societal issues.",
+        "lyrics": "I can’t let go, it’s hard to breathe...",
+        "analysis": "This song explores the impact of personal and societal challenges on relationships and personal well-being.",
+        "youtubeId": "C7LzgKaou4U"
+      },
+      {
+        "title": "Chapter Six",
+        "description": "A track reflecting on personal growth and societal observations, with introspective and contemplative lyrics.",
+        "lyrics": "We’ve been on this journey...",
+        "analysis": "Kendrick uses this track to reflect on his journey and growth, both personally and as an artist.",
+        "youtubeId": "RfNUQM9vx_g"
+      },
+      {
+        "title": "Ronald Reagan Era (Dedication)",
+        "description": "A track that critiques political and social issues, focusing on the impact of Ronald Reagan’s policies on the community.",
+        "lyrics": "I guess it’s time to let it go...",
+        "analysis": "Kendrick examines the legacy of Ronald Reagan’s presidency and its effects on marginalized communities.",
+        "youtubeId": "bk-_RTrUEkw"
+      },
+      {
+        "title": "Poe Mans Dreams (His Vice) [feat. GLC]",
+        "description": "A collaborative track with GLC that addresses the struggles and aspirations of individuals from underprivileged backgrounds.",
+        "lyrics": "We gon’ make it, we gon’ make it...",
+        "analysis": "The song highlights the challenges faced by those in poverty while emphasizing resilience and ambition.",
+        "youtubeId": "1JrCdJ47TjI"
+      },
+      {
+        "title": "The Spiteful Chant",
+        "description": "A track characterized by its raw and aggressive tone, addressing themes of anger and frustration.",
+        "lyrics": "They can’t stand us, they don’t understand us...",
+        "analysis": "Kendrick channels his frustration into a powerful critique of societal and personal injustices.",
+        "youtubeId": "dzFEPJK45iQ"
+      },
+      {
+        "title": "Chapter Ten",
+        "description": "A contemplative track that continues the thematic journey of the album, reflecting on personal and societal issues.",
+        "lyrics": "We’re still fighting, still striving...",
+        "analysis": "This track reflects on ongoing struggles and personal growth, tying into the broader themes of the album.",
+        "youtubeId": "0H8JzpQrYsw"
+      },
+      {
+        "title": "Keisha's Song (Her Pain)",
+        "description": "A poignant track that tells the story of Keisha and her struggles, offering a critique of systemic issues affecting women.",
+        "lyrics": "She’s stuck in the same place...",
+        "analysis": "Kendrick highlights the painful realities faced by women in challenging circumstances, using Keisha's story as a focal point.",
+        "youtubeId": "O4C37y2snAU"
+      },
+      {
+        "title": "Rigamortus",
+        "description": "A high-energy track showcasing Kendrick’s lyrical prowess and addressing themes of resilience and competition in the rap game.",
+        "lyrics": "I’m the hottest in the game...",
+        "analysis": "Kendrick delivers a powerful performance, emphasizing his skills and the drive needed to succeed in the competitive world of rap.",
+        "youtubeId": "yh6QxtRpSH8"
+      },
+      {
+        "title": "Kush & Corinthians (His Pain)",
+        "description": "A track that explores themes of escapism and personal pain, using drug use as a metaphor for deeper emotional struggles.",
+        "lyrics": "I just wanna get away...",
+        "analysis": "Kendrick uses the themes of drug use and escape to delve into personal pain and the search for relief from emotional burdens.",
+        "youtubeId": "khe88GbAWks"
+      },
+      {
+        "title": "Blow My High (Members Only)",
+        "description": "A track focusing on the desire to maintain personal authenticity and resist external pressures.",
+        "lyrics": "Don’t let them blow my high...",
+        "analysis": "Kendrick emphasizes the importance of staying true to oneself amidst external pressures and distractions.",
+        "youtubeId": "rdYqOgoKEyk"
+      },
+      {
+        "title": "Ab-Soul’s Outro",
+        "description": "A reflective outro that features Ab-Soul and ties together the album's themes with introspective lyrics.",
+        "lyrics": "We’ve been on this journey...",
+        "analysis": "The track offers a conclusion to the album, summarizing its themes and reflecting on Kendrick’s and Ab-Soul’s experiences.",
+        "youtubeId": "ExuUMtj7Vkc"
+      },
+      {
+        "title": "HiiPoWeR",
+        "description": "A track that serves as an anthem for empowerment and social justice, with a focus on self-affirmation and collective strength.",
+        "lyrics": "I’m the voice of the voiceless...",
+        "analysis": "Kendrick uses this song to empower and inspire, addressing social issues and promoting resilience.",
+        "youtubeId": "WL9ahHAlPKU"
       }
     ]
   }
