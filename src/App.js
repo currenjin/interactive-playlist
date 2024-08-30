@@ -25,7 +25,7 @@ function App() {
     }, [selectedAlbum]);
 
     return (
-        <div style={{ minHeight: '100vh', padding: '20px', fontFamily: 'Arial, sans-serif', textAlign: 'center' }}>
+        <div className="main-container">
             <h1>Kendrick Lamar Interactive Playlist</h1>
             <AlbumSelect albums={albumsData} onAlbumSelect={(albumKey) => {
                 setSelectedAlbum(albumKey);
