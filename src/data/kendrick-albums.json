@@ -1,4 +1,122 @@
 {
+  "section80": {
+    "title": "Section.80",
+    "backgroundColor": "#a19a70",
+    "songs": [
+      {
+        "title": "Fuck Your Ethnicity",
+        "description": "A track addressing racial and ethnic identity issues, challenging societal norms and expectations.",
+        "lyrics": "The rap game is a very hostile environment...",
+        "analysis": "Kendrick critiques racial categorization and the impact it has on individual identity and societal perceptions.",
+        "youtubeId": "HVulYPJOXHI"
+      },
+      {
+        "title": "Hol' Up",
+        "description": "A reflective track exploring themes of self-awareness and societal expectations.",
+        "lyrics": "I been in it for a long time...",
+        "analysis": "This song delves into Kendrick's introspection about his role in the music industry and society.",
+        "youtubeId": "zHmE1ArPdUM"
+      },
+      {
+        "title": "A.D.H.D",
+        "description": "A track that examines the effects of attention deficit hyperactivity disorder (ADHD) on youth and society.",
+        "lyrics": "I got a cousin that’s a ball player...",
+        "analysis": "Kendrick uses ADHD as a metaphor for the distractions and struggles faced by the younger generation in a chaotic environment.",
+        "youtubeId": "QjlFqgRbICY"
+      },
+      {
+        "title": "No Make-Up (Her Vice)",
+        "description": "A song that discusses the pressures and struggles faced by women, particularly regarding self-image and societal standards.",
+        "lyrics": "I guess it’s time to let it go...",
+        "analysis": "Kendrick addresses issues of self-esteem and societal expectations placed on women, offering a critique of these pressures.",
+        "youtubeId": "hyHO9Xis"
+      },
+      {
+        "title": "Tammy's Song (Her Evils)",
+        "description": "A narrative-driven track that delves into the complexities of personal relationships and societal issues.",
+        "lyrics": "I can’t let go, it’s hard to breathe...",
+        "analysis": "This song explores the impact of personal and societal challenges on relationships and personal well-being.",
+        "youtubeId": "C7LzgKaou4U"
+      },
+      {
+        "title": "Chapter Six",
+        "description": "A track reflecting on personal growth and societal observations, with introspective and contemplative lyrics.",
+        "lyrics": "We’ve been on this journey...",
+        "analysis": "Kendrick uses this track to reflect on his journey and growth, both personally and as an artist.",
+        "youtubeId": "RfNUQM9vx_g"
+      },
+      {
+        "title": "Ronald Reagan Era (Dedication)",
+        "description": "A track that critiques political and social issues, focusing on the impact of Ronald Reagan’s policies on the community.",
+        "lyrics": "I guess it’s time to let it go...",
+        "analysis": "Kendrick examines the legacy of Ronald Reagan’s presidency and its effects on marginalized communities.",
+        "youtubeId": "bk-_RTrUEkw"
+      },
+      {
+        "title": "Poe Mans Dreams (His Vice) [feat. GLC]",
+        "description": "A collaborative track with GLC that addresses the struggles and aspirations of individuals from underprivileged backgrounds.",
+        "lyrics": "We gon’ make it, we gon’ make it...",
+        "analysis": "The song highlights the challenges faced by those in poverty while emphasizing resilience and ambition.",
+        "youtubeId": "1JrCdJ47TjI"
+      },
+      {
+        "title": "The Spiteful Chant",
+        "description": "A track characterized by its raw and aggressive tone, addressing themes of anger and frustration.",
+        "lyrics": "They can’t stand us, they don’t understand us...",
+        "analysis": "Kendrick channels his frustration into a powerful critique of societal and personal injustices.",
+        "youtubeId": "dzFEPJK45iQ"
+      },
+      {
+        "title": "Chapter Ten",
+        "description": "A contemplative track that continues the thematic journey of the album, reflecting on personal and societal issues.",
+        "lyrics": "We’re still fighting, still striving...",
+        "analysis": "This track reflects on ongoing struggles and personal growth, tying into the broader themes of the album.",
+        "youtubeId": "0H8JzpQrYsw"
+      },
+      {
+        "title": "Keisha's Song (Her Pain)",
+        "description": "A poignant track that tells the story of Keisha and her struggles, offering a critique of systemic issues affecting women.",
+        "lyrics": "She’s stuck in the same place...",
+        "analysis": "Kendrick highlights the painful realities faced by women in challenging circumstances, using Keisha's story as a focal point.",
+        "youtubeId": "O4C37y2snAU"
+      },
+      {
+        "title": "Rigamortus",
+        "description": "A high-energy track showcasing Kendrick’s lyrical prowess and addressing themes of resilience and competition in the rap game.",
+        "lyrics": "I’m the hottest in the game...",
+        "analysis": "Kendrick delivers a powerful performance, emphasizing his skills and the drive needed to succeed in the competitive world of rap.",
+        "youtubeId": "yh6QxtRpSH8"
+      },
+      {
+        "title": "Kush & Corinthians (His Pain)",
+        "description": "A track that explores themes of escapism and personal pain, using drug use as a metaphor for deeper emotional struggles.",
+        "lyrics": "I just wanna get away...",
+        "analysis": "Kendrick uses the themes of drug use and escape to delve into personal pain and the search for relief from emotional burdens.",
+        "youtubeId": "khe88GbAWks"
+      },
+      {
+        "title": "Blow My High (Members Only)",
+        "description": "A track focusing on the desire to maintain personal authenticity and resist external pressures.",
+        "lyrics": "Don’t let them blow my high...",
+        "analysis": "Kendrick emphasizes the importance of staying true to oneself amidst external pressures and distractions.",
+        "youtubeId": "rdYqOgoKEyk"
+      },
+      {
+        "title": "Ab-Soul’s Outro",
+        "description": "A reflective outro that features Ab-Soul and ties together the album's themes with introspective lyrics.",
+        "lyrics": "We’ve been on this journey...",
+        "analysis": "The track offers a conclusion to the album, summarizing its themes and reflecting on Kendrick’s and Ab-Soul’s experiences.",
+        "youtubeId": "ExuUMtj7Vkc"
+      },
+      {
+        "title": "HiiPoWeR",
+        "description": "A track that serves as an anthem for empowerment and social justice, with a focus on self-affirmation and collective strength.",
+        "lyrics": "I’m the voice of the voiceless...",
+        "analysis": "Kendrick uses this song to empower and inspire, addressing social issues and promoting resilience.",
+        "youtubeId": "WL9ahHAlPKU"
+      }
+    ]
+  },
   "good-kid-mad-city": {
     "title": "Good Kid, M.A.A.D City",
     "backgroundColor": "#f4c542",
