@@ -24,7 +24,7 @@ export default function Player({ videoId }) {
         return () => {
             document.body.removeChild(script);
         };
-    }, []);
+    }, [videoId]);
 
     useEffect(() => {
         if (playerInstance.current) {
@@ -41,7 +41,7 @@ export default function Player({ videoId }) {
     return (
         <div>
             <h3>Now Playing</h3>
-            <div ref={playerRef}></div>
+            <div ref={playerRef} className="youtube-player"></div>
         </div>
     );
 }
