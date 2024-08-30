@@ -14,7 +14,7 @@ body {
 
 h1 {
   font-family: 'Bebas Neue', sans-serif;
-  color: #333;
+  color: #050;
 }
 
 select {
@@ -34,7 +34,7 @@ div {
   }
 
   h1 {
-    font-size: 24px;
+    font-size: 50px;
   }
 
   select {
@@ -50,7 +50,7 @@ div {
 
 @media (max-width: 480px) {
   h1 {
-    font-size: 20px;
+    font-size: 40px;
   }
 
   select {

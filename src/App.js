@@ -26,7 +26,8 @@ function App() {
 
     return (
         <div className="main-container">
-            <h1>Kendrick Lamar Interactive Playlist</h1>
+            <h1>Kendrick Lamar</h1>
+            <h1>Interactive Playlist</h1>
             <AlbumSelect albums={albumsData} onAlbumSelect={(albumKey) => {
                 setSelectedAlbum(albumKey);
                 setSelectedSong(0);
