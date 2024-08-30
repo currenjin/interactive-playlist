@@ -1,20 +1,23 @@
 {
   "good-kid-mad-city": {
     "title": "Good Kid, M.A.A.D City",
+    "backgroundColor": "#f4c542",
     "songs": [
       {
         "title": "Sherane a.k.a Master Splinter’s Daughter",
         "description": "The intro track sets the stage for the album's narrative, introducing Kendrick's experiences with Sherane and his surroundings in Compton.",
         "lyrics": "Two hundred thousand dollars from a car note...",
         "analysis": "This song explores the temptations and dangers Kendrick faced growing up, particularly with his interactions with Sherane, which symbolize the challenges of his environment.",
-        "youtubeId": "REtSNvjxBXE"
+        "youtubeId": "REtSNvjxBXE",
+        "backgroundColor": "#ffeb3b"
       },
       {
         "title": "Bitch, Don’t Kill My Vibe",
         "description": "A reflective track where Kendrick contemplates his role in the music industry and the pressures he faces.",
         "lyrics": "I am a sinner who's probably gonna sin again...",
         "analysis": "Kendrick uses this song to discuss the negative energy around him and how he strives to maintain his authenticity despite external pressures.",
-        "youtubeId": "GF8aaTu2kg0"
+        "youtubeId": "GF8aaTu2kg0",
+        "backgroundColor": "#c2185b"
       },
       {
         "title": "Backseat Freestyle",
@@ -90,6 +93,7 @@
   },
   "to-pimp-a-butterfly": {
     "title": "To Pimp a Butterfly",
+    "backgroundColor": "#9c27b0",
     "songs": [
       {
         "title": "Wesley's Theory (feat. George Clinton & Thundercat)",
@@ -207,6 +211,7 @@
   },
   "damn": {
     "title": "DAMN.",
+    "backgroundColor": "#ff5722",
     "songs": [
       {
         "title": "BLOOD.",
