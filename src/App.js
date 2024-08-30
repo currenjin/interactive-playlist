@@ -7,7 +7,7 @@ import albumsData from './data/kendrick-albums.json';
 import './App.css';
 
 function App() {
-    const [selectedAlbum, setSelectedAlbum] = useState('good-kid-mad-city');
+    const [selectedAlbum, setSelectedAlbum] = useState('to-pimp-a-butterfly');
     const [selectedSong, setSelectedSong] = useState(0);
 
     const album = albumsData[selectedAlbum];
