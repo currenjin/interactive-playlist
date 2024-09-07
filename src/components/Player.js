@@ -1,15 +1,27 @@
 import React, { useEffect, useRef } from 'react';
 
-export default function Player({ videoId }) {
+export default function Player({ videoId, onSongEnd }) {
     const playerRef = useRef(null);
     const playerInstance = useRef(null);
 
     useEffect(() => {
-        const script = document.createElement('script');
-        script.src = "https://www.youtube.com/iframe_api";
-        document.body.appendChild(script);
+        if (!window.YT) {
+            const script = document.createElement('script');
+            script.src = "https://www.youtube.com/iframe_api";
+            document.body.appendChild(script);
 
-        window.onYouTubeIframeAPIReady = () => {
+            window.onYouTubeIframeAPIReady = () => {
+                playerInstance.current = new window.YT.Player(playerRef.current, {
+                    height: '390',
+                    width: '640',
+                    videoId: videoId,
+                    events: {
+                        'onReady': onPlayerReady,
+                        'onStateChange': onPlayerStateChange
+                    }
+                });
+            };
+        } else {
             playerInstance.current = new window.YT.Player(playerRef.current, {
                 height: '390',
                 width: '640',
@@ -19,24 +31,24 @@ export default function Player({ videoId }) {
                     'onStateChange': onPlayerStateChange
                 }
             });
-        };
+        }
 
         return () => {
-            document.body.removeChild(script);
+            if (playerInstance.current) {
+                playerInstance.current.destroy();
+            }
         };
-    }, [videoId]);
-
-    useEffect(() => {
-        if (playerInstance.current) {
-            playerInstance.current.loadVideoById(videoId);
-        }
     }, [videoId]);
 
     const onPlayerReady = (event) => {
         event.target.playVideo();
     };
 
-    const onPlayerStateChange = (event) => {};
+    const onPlayerStateChange = (event) => {
+        if (event.data === window.YT.PlayerState.ENDED) {
+            onSongEnd();
+        }
+    };
 
     return (
         <div>

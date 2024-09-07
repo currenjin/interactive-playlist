@@ -24,6 +24,22 @@ function App() {
         setSelectedSong(0);
     }, [selectedAlbum]);
 
+    const handleNextSong = () => {
+        if (selectedSong < album.songs.length - 1) {
+            setSelectedSong(selectedSong + 1);
+        } else {
+            setSelectedSong(0);
+        }
+    };
+
+    const handlePreviousSong = () => {
+        if (selectedSong > 0) {
+            setSelectedSong(selectedSong - 1);
+        } else {
+            setSelectedSong(album.songs.length - 1);
+        }
+    };
+
     return (
         <div className="main-container">
             <h1>Kendrick Lamar</h1>
@@ -32,8 +48,14 @@ function App() {
                 setSelectedAlbum(albumKey);
                 setSelectedSong(0);
             }} />
-            <SongSelect album={album} onSongSelect={(songIndex) => setSelectedSong(songIndex)} />
-            <Player videoId={song.youtubeId} />
+            <SongSelect album={album} selectedSong={selectedSong} onSongSelect={(songIndex) => setSelectedSong(songIndex)} />
+
+            <div className="navigation-buttons">
+                <button onClick={handlePreviousSong}>Previous</button>
+                <button onClick={handleNextSong}>Next</button>
+            </div>
+
+            <Player videoId={song.youtubeId} onSongEnd={handleNextSong} />
             <SongDetails song={song} />
         </div>
     );
